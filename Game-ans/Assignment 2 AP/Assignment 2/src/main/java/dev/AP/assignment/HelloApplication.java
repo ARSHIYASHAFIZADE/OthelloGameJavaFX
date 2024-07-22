@@ -1,12 +1,5 @@
 package dev.AP.assignment;
 
-//Changes
-/* UI Update
- * Exit button fix
- * Default black/white name
- * Timer bug fix
- * Pause menu implementation*/
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
